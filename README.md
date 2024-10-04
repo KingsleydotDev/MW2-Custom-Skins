@@ -3,6 +3,8 @@
 
 How to use:
 
+Download lastest release [here](https://github.com/KingsleydotDev/MW2-Custom-skins/releases/tag/1.0)
+
 make a folder in steam mw2 root directory called "main_shared"
 
 ![Image](https://i.imgur.com/9xR87R5.png)
@@ -10,6 +12,8 @@ make a folder in steam mw2 root directory called "main_shared"
 unpack custom .iwd into the folder like so
 
 ![Image](https://i.imgur.com/zjneKQM.png)
+
+use injector to inject to iw4mp.exe
 
 Works on the latest iw4mp update 1.2.211 (post RCE fix.)
 
